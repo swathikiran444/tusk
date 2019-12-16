@@ -2,3 +2,4 @@ name
 number
 location
 address
+company
